@@ -1,3 +1,8 @@
+# Overview
+This repository is forked from [Chrome Extensions samples](https://github.com/GoogleChrome/chrome-extensions-samples)
+
+I have all the samples in the fork, but I'm here for [tutorials/tabs-manager](tutorials/tabs-manager)
+
 # Chrome Extensions samples
 
 Official samples for Chrome Extensions and the Chrome Apps platform.
